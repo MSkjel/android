@@ -877,4 +877,6 @@
     <string name="update">Update</string>
     <string name="weather">Weather</string>
     <string name="zone">Zone</string>
+    <string name="sensor_name_heartrate">Heart Rate</string>
+    <string name="sensor_description_heartrate_sensor">Latest Heart Rate</string>
 </resources>

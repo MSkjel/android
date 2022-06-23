@@ -24,7 +24,8 @@ class SensorReceiver : SensorReceiverBase() {
     companion object {
         const val TAG = "SensorReceiver"
         val MANAGERS = listOf(
-            BatterySensorManager()
+            BatterySensorManager(),
+            HeartRateSensorManager()
         )
 
         const val ACTION_REQUEST_SENSORS_UPDATE =
